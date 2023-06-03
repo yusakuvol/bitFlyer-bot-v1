@@ -1,0 +1,8 @@
+# env
+.env
+
+# config
+strategyConfig.ts
+
+# Dependency directories
+node_modules/
